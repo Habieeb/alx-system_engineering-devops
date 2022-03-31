@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /tmp/my_first_directory[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Drm [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+rm /tmp/my_first_directory/betty
