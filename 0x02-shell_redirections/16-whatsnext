@@ -1,2 +1,2 @@
 #!/bin/bash
-crep -A 3 root[D[D[D[D[D[D[D[D[D[D[D[D[g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D"[C[C[C" /etc/passwd
+grep -A 3 "root" /etc/passwd
