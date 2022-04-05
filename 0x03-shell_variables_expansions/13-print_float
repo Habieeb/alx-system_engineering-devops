@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.zf\n"[D[D[D[D[*[C[C[C[C[C[C[D[D[C $NUM
+printf "%.2f\n" $NUM
